@@ -5,4 +5,4 @@ Rhino3D Python script to generate the (laser) cutting curves for a Minecraft Ele
 
 More information at http://robdobson.com/2014/01/laser-cut-minecraft-elements-in-perspex/
 
-![ScreenShot](https://raw.github.com/robdobsn/MinecraftElementRhinoPython/master/screenshots/latest.jpg)
+![ScreenShot](https://raw.github.com/robdobsn/MinecraftElement/master/screenshots/latest.jpg)
